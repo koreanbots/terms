@@ -13,7 +13,7 @@
 - "회사", "당사"는 서비스를 제공하는 `한국 디스코드봇 리스트`를 의미합니다.
 - "플랫폼"은 당사가 서비스하는 모든 웹사이트를 의미합니다. (\*.koreanbots.dev, \*.kbots.dev, \*.디스코드봇.한국)
 - "커뮤니티"는 당사의 [공식 디스코드](https://koreanbots.dev/discord)를 의미합니다.
-- "공식 SNS"는 당사의 공식 [트위터](https://twitter.com/koreanbots), [페이스북](https://fb.com/koreanbots), [인스타그램](https://instagram.com/koreanbots) 의미합니다
+- "공식 SNS"는 당사의 공식 [트위터](https://twitter.com/koreanbots), [페이스북](https://fb.com/koreanbots), [인스타그램](https://instagram.com/koreanbots)을 의미합니다
 - "유저"는 이 약관에 따라 이용 계약을 체결하고, 당사가 제공하는 서비스를 이용하는 자를 의미합니다.
 
 ### 제3조 (약관의 효력 및 변경)
